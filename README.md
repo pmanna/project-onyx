@@ -41,18 +41,15 @@
 
 ---
 
-## 📸 Screenshots
+## 🎬 Demo
 
-<!-- Add screenshots once you have them. Suggested layout:
+<div align="center">
 
-| Chat tab | Models tab |
-|----------|------------|
-| ![Chat](docs/chat.png) | ![Models](docs/models.png) |
+<img src="docs/demonstration.gif" width="320" alt="Onyx demo — downloading the model and chatting on device">
 
-Place 1242 × 2688 px (iPhone 15 Pro) captures at docs/chat.png and docs/models.png.
--->
+*Downloading the model and chatting, recorded on device — [watch the full-quality video](docs/demonstration.mp4).*
 
-*Coming soon.*
+</div>
 
 ---
 

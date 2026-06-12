@@ -19,3 +19,7 @@ xcuserdata/
 # Python (icon generation scripts)
 __pycache__/
 *.pyc
+
+# Original screen-recording source (13 MB HEVC; the repo ships the
+# re-encoded docs/demonstration.mp4 + .gif instead)
+docs/demonstration-src.mp4
