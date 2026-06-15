@@ -56,7 +56,7 @@
 ### 1. Clone and open
 
 ```bash
-git clone https://github.com/your-org/Onyx.git
+git clone https://github.com/kiraa-ai/Onyx.git
 cd Onyx
 open Onyx/Onyx.xcodeproj
 ```
